@@ -182,4 +182,7 @@ article.project-item {
     width: 95vw!important;
     max-height: 95vh;
   }
+  .b-r {
+    border-radius: 5px;
+}
 }
