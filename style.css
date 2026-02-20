@@ -175,3 +175,11 @@ article.project-item {
 .b-r {
   border-radius: 8px;
 }
+
+
+@media (max-width: 768px) {
+  .wrap {
+    width: 95vw!important;
+    max-height: 95vh;
+  }
+}
