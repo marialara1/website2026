@@ -194,8 +194,4 @@ article.project-item {
     max-height: 95vh;
   }
 }
-@media screen and (max-width: 1020px) {
-    article.project-item {
-        gap: 0.2rem;
-    }
-}
+
