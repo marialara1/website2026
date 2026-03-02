@@ -176,10 +176,26 @@ article.project-item {
   border-radius: 2%;
 }
 
+.project-client-role {
+    text-align: right;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: block;
+    max-width: 100%;
+    min-width: 0;
+    text-align: right;
+    float: right;
+}
 
 @media (max-width: 768px) {
   .wrap {
     width: 95vw!important;
     max-height: 95vh;
   }
+}
+@media screen and (max-width: 1020px) {
+    article.project-item {
+        gap: 0.2rem;
+    }
 }
