@@ -195,3 +195,10 @@ article.project-item {
   }
 }
 
+
+
+@media (max-width: 768px) {
+  .project-year span, .project-client-role span {
+    padding: 0 0.5rem;
+  }
+}
