@@ -124,6 +124,13 @@ a.project-link {
     height: max-content;
 }
 
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: var(--pad-S);
+}
+
 /*IPAD RESPONSIVE*/
 @media screen and (max-width: 1020px) {
 
