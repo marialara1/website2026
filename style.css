@@ -124,6 +124,11 @@ a.project-link {
     height: max-content;
 }
 
+.contact-links {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
 
 footer {
     display: flex;
