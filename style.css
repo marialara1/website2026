@@ -119,9 +119,11 @@ a.project-link {
 }
 
 .img-gallery img {
-    max-width: 20px;
-    max-height: 25px;
-    height: max-content;
+max-width: 20px;
+max-height: 25px;
+height: 100%;
+/* object-fit: contain; */
+width: 100%;
 }
 
 .contact-links {
