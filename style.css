@@ -132,6 +132,12 @@ width: 100%;
     align-items: end;
 }
 
+.ask-info {
+  text-decoration: underline;
+    padding-top: 1rem;
+    display: block;
+}
+
 footer {
     display: flex;
     justify-content: center;
